@@ -458,9 +458,6 @@ code {
 .video-frame iframe { border: 0; }
 .video-cap { font-size: .85rem; color: var(--muted); margin-top: 8px; }
 
-.video-help h3 { font-size: 1.05rem; margin-bottom: 8px; }
-.video-help p { color: var(--muted); margin: 0; font-size: .93rem; }
-
 /* ---------- 获奖 ---------- */
 .honor-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
 .honor {
