@@ -11,6 +11,7 @@
  */
 const VIDEOS = {
   graphics: '图形学演示视频.mp4',   // 图形学项目 miniGL 演示视频
+  carto:    '地图学演示视频.mp4',   // 地图学项目 夜间脉搏 演示视频
   gis:      '水文ocr演示视频.mp4',  // GIS 创新项目（水文 OCR）演示视频
 };
 
